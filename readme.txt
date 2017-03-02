@@ -20,5 +20,5 @@ Webserver running at: http://192.168.229.134:31000
 ./install.sh stop 
 
 =========================================================================
-For any issues, please send install.log file to <vinay.jindal@83incs.com>
+For any issues, please send install.log file to <vinay.jindal@gmail.com>
 =========================================================================
